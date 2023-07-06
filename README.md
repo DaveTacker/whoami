@@ -1,4 +1,4 @@
-# <div style="display: flex; align-items: center;"><img src="https://avatars.githubusercontent.com/u/1012169?v=4" alt="Dave's Avatar" style="width: 50px; height: auto; border: 2px solid white; border-radius: 50%; margin-right: 15px" /> Dave Tacker</div>
+# ![Dave's Avatar](avatar.png) Dave Tacker
 
 ... is a Software Engineer with over 16 years of extensive experience in all levels of development including but not limited to performance, functionality, integration, system, regression, custom workstation assembly, and user acceptance testing. Supportive and enthusiastic team player who excels in streamlining processes and efficiently resolving project issues. Dedicated to ownership of core components and upholding the institution's mission statement.
 
@@ -10,8 +10,6 @@ dave@codebuilt.io<br />
 [GitHub](https://github.com/kneeki)
 
 ## SKILLS
-
-<center>
 
 | OPERATING SYSTEMS | MOBILE | DESKTOP | WEB | REST API | TESTING |
 | --- | --- | --- | --- | --- | --- |
@@ -29,8 +27,6 @@ dave@codebuilt.io<br />
 | | | | Handlebars.js |
 | | | | Node.js |
 | | | | jQuery.js |
-
-</center>
 
 ## PROFESSIONAL EXPERIENCE
 
