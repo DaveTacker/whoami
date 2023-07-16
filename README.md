@@ -35,6 +35,8 @@ dave@codebuilt.io<br />
 - Designed, wrote, tested, debugged, and maintained software solutions for a diverse clientele, including small businesses and large corporations in the Healthcare, Oil, and Sports Industries.
 - Developed Oil Maps, a platform that revolutionized the oil well location and data retrieval industry by providing safe and reliable routing and detailed well, operator, and production information regarding millions of rig locations.
 - Created and maintained RockDocEMR Race Management Software for the Rock'n'Roll Marathon, providing medical personnel with quick, intuitive, and reliable medical and physical GPS location information for every participant.
+- Built an inventory management system for a large Shopify eCommerce store, providing a secure and reliable platform for the company to manage their inventory with detailed analytics and reporting for their entire shipping and receiving process.
+- Managed a small team to build a slick and intuitive Shopify plugin with accompanying mobile application for a large eCommerce store, providing a secure and reliable platform for influencers to broadcast their products and services to their followers and fans for the purpose of generating sales and revenue for the company using subscription-based services and product sales.
 - Built, debugged, deployed, and manage a small development team for a custom Content Management System (CMS) and its accompanying front-facing website for an insurance company, providing a secure and reliable platform for the company to manage their online presence and generate proposals to prospective clients.
 
 ### Software Engineer, RedFynn Technologies *(09/2014 to 07/2015)*
