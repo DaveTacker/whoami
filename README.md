@@ -1,10 +1,10 @@
 # ![Dave's Avatar](avatar.png) Dave Tacker
 
-... is a Software Engineer with over 16 years of extensive experience in all levels of development including but not limited to performance, functionality, integration, system, regression, custom workstation assembly, and user acceptance testing. Supportive and enthusiastic team player who excels in streamlining processes and efficiently resolving project issues. Dedicated to ownership of core components and upholding the institution's mission statement.
+Leading e-commerce innovation as a Senior Software Engineer at eCommerce Umbrella with 16+ years of experience. Core expertise includes Angular, PHP, Laravel, Docker, containerization, and Google Cloud Platform. Recent success includes the development of a custom inventory management system and a live-streaming ecommerce platform, optimizing both user experience and business outcomes.
 
 ## ABOUT
-Kapolei, HI US<br />
-dave@codebuilt.io<br />
+Waianae, HI US<br />
+[dave@codebuilt.io](mailto:dave@codebuilt.io)<br />
 
 [LinkedIn](https://www.linkedin.com/in/davetacker/)<br />
 [GitHub](https://github.com/kneeki)
