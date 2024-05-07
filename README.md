@@ -1,75 +1,147 @@
 # ![Dave's Avatar](avatar.png) Dave Tacker
-
-Leading e-commerce innovation as a Senior Software Engineer at eCommerce Umbrella with 16+ years of experience. Core expertise includes Angular, PHP, Laravel, Docker, containerization, and Google Cloud Platform. Recent success includes the development of a custom inventory management system and a live-streaming ecommerce platform, optimizing both user experience and business outcomes.
-
-## ABOUT
 Waianae, HI US<br />
 [dave@codebuilt.io](mailto:dave@codebuilt.io)<br />
 
 [LinkedIn](https://www.linkedin.com/in/davetacker/)<br />
 [GitHub](https://github.com/kneeki)
 
+Leading e-commerce innovation as a Senior Software Engineer at eCommerce Umbrella with 16+ years of experience. Core expertise includes Angular, PHP, Laravel, Docker, containerization, and Google Cloud Platform. Recent success includes the development of a custom inventory management system and a live-streaming ecommerce platform, optimizing both user experience and business outcomes.
+
 ## SKILLS
 
-| OPERATING SYSTEMS | MOBILE | DESKTOP | WEB | REST API | TESTING |
-| --- | --- | --- | --- | --- | --- |
-| Android | Android Studio | .NET | ASP.NET | Angular | PHPUnit |
-| Linux | Appery | Bash/Shell | CSS3 | RxJS | Karma |
-| Windows | Ionic.io | C/C++ | HTML 5 | Laravel | |
-| Windows Server | Unity | Java | Javascript | Typescript | |
+| OPERATING SYSTEMS | MOBILE         | DESKTOP    | WEB        | REST API   | TESTING |
+| ----------------- | -------------- | ---------- | ---------- | ---------- | ------- |
+| Android           | Android Studio | .NET       | ASP.NET    | Angular    | PHPUnit |
+| Linux             | Appery         | Bash/Shell | CSS3       | RxJS       | Karma   |
+| Windows           | Ionic.io       | C/C++      | HTML 5     | Laravel    |         |
+| Windows Server    | Unity          | Java       | Javascript | Typescript |         |
 
-
-| CONTAINERIZATION AND DEPLOYMENT | VERSION CONTROL | DATABASE | JAVASCRIPT |
-| --- | --- | --- | --- |
-| Docker | Git | MySQL | AJAX |
-| Google Cloud Workflow Deployment | | SQL Server | Angular.js |
-| | | SQLite | Bootstrap |
-| | | | Handlebars.js |
-| | | | Node.js |
-| | | | jQuery.js |
+| CONTAINERIZATION AND DEPLOYMENT  | VERSION CONTROL | DATABASE   | JAVASCRIPT    |
+| -------------------------------- | --------------- | ---------- | ------------- |
+| Docker                           | Git             | MySQL      | AJAX          |
+| Google Cloud Workflow Deployment |                 | SQL Server | Angular.js    |
+|                                  |                 | SQLite     | Bootstrap     |
+|                                  |                 |            | Handlebars.js |
+|                                  |                 |            | Node.js       |
+|                                  |                 |            | jQuery.js     |
 
 ## PROFESSIONAL EXPERIENCE
 
-### Owner, Geekbocks, LLC *(04/2007 to Present)*
+### Senior Software Engineer, eCommerce Umbrella <small>_(08/2018 to Present)_</small>
 
-- Designed, wrote, tested, debugged, and maintained software solutions for a diverse clientele, including small businesses and large corporations in the Healthcare, Oil, and Sports Industries.
-- Developed Oil Maps, a platform that revolutionized the oil well location and data retrieval industry by providing safe and reliable routing and detailed well, operator, and production information regarding millions of rig locations.
-- Created and maintained RockDocEMR Race Management Software for the Rock'n'Roll Marathon, providing medical personnel with quick, intuitive, and reliable medical and physical GPS location information for every participant.
-- Built an inventory management system for a large Shopify eCommerce store, providing a secure and reliable platform for the company to manage their inventory with detailed analytics and reporting for their entire shipping and receiving process.
-- Managed a small team to build a slick and intuitive Shopify plugin with accompanying mobile application for a large eCommerce store, providing a secure and reliable platform for influencers to broadcast their products and services to their followers and fans for the purpose of generating sales and revenue for the company using subscription-based services and product sales.
-- Built, debugged, deployed, and manage a small development team for a custom Content Management System (CMS) and its accompanying front-facing website for an insurance company, providing a secure and reliable platform for the company to manage their online presence and generate proposals to prospective clients.
+#### Project 1) Warehouse Management Solution
 
-### Software Engineer, RedFynn Technologies *(09/2014 to 07/2015)*
+- Spearheaded the development of a custom inventory management system, saving up to $3,000 per
+  day
+- Increased order fulfillment accuracy from 78% to 98%
+- Optimized warehouse operations by seamlessly integrating Shopify, Braintree, ShippingEasy, and ShipStation APIs
+- Reduced order returns by leveraging Angular, Bootstrap, barcode scanning, and real-time validation
 
-- Collaborated closely with the Development Manager to surpass industry standards and develop new applications that streamlined workflow, enhanced customer experience, and ultimately increased profit margins.
-- Evaluated existing software and designed innovative solutions to address previous issues, such as the creation and implementation of a new billing statement analyzer with numerous features.
-- Designed, wrote, tested, debugged, and deployed a payment processing gateway with an integrated API and client-facing portal, along with a Content Management System (CMS) and its accompanying front-facing website.
-- Built a customized workstation for a specialized accounting department and provided guidance and advice on complex IT issues to various departments and the owner, all within specified timeframes.
+#### Project 2) Live-Streaming E-commerce Platform
 
-### Network Administrator, Choice Management, LLC *(05/2010 to 07/2012)*
+- Conceived, architected, and led the development of an innovative live-streaming e-commerce platform enabling seamless integration from Shopify or BigCommerce to Facebook, Instagram, and Twitter
+- Successfully managed a 5-developer team and a designer to accelerate platform development while
+  mentoring junior developers on the team
+- Employed Kubernetes, NGINX, RTMP, Ionic, Angular, and Laravel to create a scalable, in-stream
+  purchasing solution increasing stream engagement 22%
 
-- Worked closely with the company owner, providing professional advice regarding prospective investments and assisted in the development of a video conferencing software.
-- Managed home-office and two off-site buildings remotely using secure VPN Technologies, managing 35 workstations with accompanying servers and firewalls with a 99% uptime.
-- Assembled workstations and servers, wired buildings for high-speed networking, and designed, wrote, tested, debugged, and deployed multiple in-house office administrative applications to streamline and automate many otherwise time-consuming duties.
+### Senior Software Engineer, SympLiving <small>_Apr 2017 - Apr 2019 (2 years 1 month)_</small>
 
-### Technical Support Coordinator, Memories By Design, Inc *(04/2005 to 07/2010)*
+- Created a telehealth platform for mental health providers with Angular, WebRTC, and Jitsi, offering secure video calling, appointment scheduling, messaging, and mood-boosting resources
+- User-friendliness guided the design of this platform, backed by a Laravel backend and secure
+  Braintree payment processing
+- Implemented HIPAA-focused security measures (OpenSSL encryption, audit logging, access controls)
 
-- Maintained continuous liaison with contractors and management ensuring that all appropriate parties were informed of system-related problems and changes that may impact users.
-- Ensured acquisition of IT products and services, for companies and contractors, were compliant with appropriate regulations and policies prior to purchase.
-- Interfaced with customers and managed company-wide IT matters, providing quick diagnosis and solutions for a vast range of technical problems including but not limited to network, workstation, peripherals, and digital backups.
+### Software Engineer, Sphyra <small>_Oct 2014 - Aug 2015 (11 months)_</small>
+
+- Revamped a complex sales workflow with a web application, automating profitability calculations and PDF generation for on-the-go proposal delivery
+- Enabled offline functionality with NodeJS, AngularJS, jsPDF, and web manifests
+- Reduced the time to create a proposal from multiple days to less than 10 minutes
+
+### Owner, Codebuilt <small>_Apr 2014 - Present (10 years 1 month)_</small>
+
+#### Project 1) Long-Term Care Proposal Automation
+
+- Transformed a time-consuming 60 sheet Excel-based proposal process into a user-friendly VBA
+  application, automating calculations, data comparisons, and PDF generation
+- Reduced proposal creation time from 30-60 minutes to 1-3 minutes
+
+#### Project 2) HIPAA-Compliant Health Record App
+
+- Developed a HIPAA-compliant Ionic and Angular mobile app for Rock 'n' Roll Running Series,
+  empowering 5 to 20 paramedics with real-time vital recording and submission of hundreds of patients
+- Enhanced situational awareness for race officials by integrating GPS location tracking for live medical incident mapping
+- Prioritized patient privacy by implementing Google Maps APIs for location services and employing robust security measures
 
 ## EDUCATION
-- BA, Computer Science
-- AA, General Transfer Degree
-- AA, Culinary Sciences
 
-## MILITARY EXPERIENCE
-- Culinary Specialist
-- Good Conduct Medal
-- Global War on Terrorism Service Medal
-- National Defense Service Medal
-- Submarine Insignia
-- SSBN Service Patrol Pin (4 patrols)
+<table border=0>
+<tr>
+<td width="50px">
 
-## VOLUNTEER EXPERIENCE
-Assisted in community outreach programs, marketing, adoptions, the foster program, and barn cat and stray programs.
+![University of Hawaii at Manoa Logo](logos/uhmanoa.png)
+
+</td>
+<td>
+
+**University of Hawaii at Manoa** <br />
+Bachelor of Applied Science (BASc), Computer Software Engineering <small>_2016 - Present_</small>
+
+</td>
+</tr>
+<tr>
+<td>
+
+![Spokane Falls Community College Logo](logos/sfcc.png)
+
+</td>
+<td>
+
+**Spokane Falls Community College** <br />
+Associate of Arts and Sciences (AAS), General Studies <small>_2014 - 2016_</small>
+
+</td>
+</tr>
+<tr>
+<td>
+
+![The Art Institute of Seattle Logo](logos/ai.jpg)
+
+</td>
+<td>
+
+**The Art Institute of Seattle** <br />
+Associate's Degree, Culinary Science/Culinology <small>_2012 - 2014_</small>
+
+</td>
+</tr>
+</table>
+
+## Licenses & Certifications
+
+<table border=0>
+<tr>
+<td width="50px">
+
+![Vincennes University Logo](logos/vi.jpeg)
+
+</td>
+<td>
+
+CompTIA A+ - Vincennes University
+
+</td>
+</tr>
+<tr>
+<td>
+
+![Vincennes University Logo](logos/vi.jpeg)
+
+</td>
+<td>
+
+CompTIA Network+ - Vincennes University
+
+</td>
+</tr>
+</table>
