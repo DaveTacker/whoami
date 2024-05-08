@@ -1,4 +1,5 @@
 # ![Dave's Avatar](avatar.png) Dave Tacker
+
 Waianae, HI US<br />
 [dave@codebuilt.io](mailto:dave@codebuilt.io)<br />
 
@@ -6,24 +7,6 @@ Waianae, HI US<br />
 [GitHub](https://github.com/kneeki)
 
 Leading e-commerce innovation as a Senior Software Engineer at eCommerce Umbrella with 16+ years of experience. Core expertise includes Angular, PHP, Laravel, Docker, containerization, and Google Cloud Platform. Recent success includes the development of a custom inventory management system and a live-streaming ecommerce platform, optimizing both user experience and business outcomes.
-
-## SKILLS
-
-| OPERATING SYSTEMS | MOBILE         | DESKTOP    | WEB        | REST API   | TESTING |
-| ----------------- | -------------- | ---------- | ---------- | ---------- | ------- |
-| Android           | Android Studio | .NET       | ASP.NET    | Angular    | PHPUnit |
-| Linux             | Appery         | Bash/Shell | CSS3       | RxJS       | Karma   |
-| Windows           | Ionic.io       | C/C++      | HTML 5     | Laravel    |         |
-| Windows Server    | Unity          | Java       | Javascript | Typescript |         |
-
-| CONTAINERIZATION AND DEPLOYMENT  | VERSION CONTROL | DATABASE   | JAVASCRIPT    |
-| -------------------------------- | --------------- | ---------- | ------------- |
-| Docker                           | Git             | MySQL      | AJAX          |
-| Google Cloud Workflow Deployment |                 | SQL Server | Angular.js    |
-|                                  |                 | SQLite     | Bootstrap     |
-|                                  |                 |            | Handlebars.js |
-|                                  |                 |            | Node.js       |
-|                                  |                 |            | jQuery.js     |
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -75,73 +58,70 @@ Leading e-commerce innovation as a Senior Software Engineer at eCommerce Umbrell
 
 ## EDUCATION
 
-<table border=0>
-<tr>
-<td width="50px">
-
-![University of Hawaii at Manoa Logo](logos/uhmanoa.png)
-
-</td>
-<td>
-
-**University of Hawaii at Manoa** <br />
-Bachelor of Applied Science (BASc), Computer Software Engineering <small>_2016 - Present_</small>
-
-</td>
-</tr>
-<tr>
-<td>
-
-![Spokane Falls Community College Logo](logos/sfcc.png)
-
-</td>
-<td>
-
-**Spokane Falls Community College** <br />
-Associate of Arts and Sciences (AAS), General Studies <small>_2014 - 2016_</small>
-
-</td>
-</tr>
-<tr>
-<td>
-
-![The Art Institute of Seattle Logo](logos/ai.jpg)
-
-</td>
-<td>
-
-**The Art Institute of Seattle** <br />
-Associate's Degree, Culinary Science/Culinology <small>_2012 - 2014_</small>
-
-</td>
-</tr>
+<table border="0" width="100%">
+  <tr>
+    <td width="50px">
+      <img alt="University of Hawaii at Manoa Logo" src="logos/uhmanoa.png" />
+    </td>
+    <td>
+      <strong>University of Hawaii at Manoa</strong><br />
+      Bachelor of Applied Science (BASc), Computer Software Engineering
+      <small><i>2016 - Present</i></small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Spokane Falls Community College Logo" src="logos/sfcc.png" />
+    </td>
+    <td>
+      <strong>Spokane Falls Community College</strong><br />
+      Associate of Arts and Sciences (AAS), General Studies
+      <small><i>2014 - 2016</i></small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="The Art Institute of Seattle Logo" src="logos/ai.jpg" />
+    </td>
+    <td>
+      <strong>The Art Institute of Seattle</strong><br />
+      Associate's Degree, Culinary Science/Culinology
+      <small><i>2012 - 2014</i></small>
+    </td>
+  </tr>
 </table>
 
-## Licenses & Certifications
+## CERTIFICATIONS
 
-<table border=0>
-<tr>
-<td width="50px">
-
-![Vincennes University Logo](logos/vi.jpeg)
-
-</td>
-<td>
-
-CompTIA A+ - Vincennes University
-
-</td>
-</tr>
-<tr>
-<td>
-
-![Vincennes University Logo](logos/vi.jpeg)
-
-</td>
-<td>
-
-CompTIA Network+ - Vincennes University
-
-</td>
-</tr>
+<table border="0" width="100%">
+  <tr>
+    <td width="50px">
+      <img alt="Vincennes University Logo" src="logos/vi.jpeg" />
+    </td>
+    <td>CompTIA A+ - Vincennes University</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Vincennes University Logo" src="logos/vi.jpeg" />
+    </td>
+    <td>CompTIA Network+ - Vincennes University</td>
+  </tr>
 </table>
+
+## SKILLS
+
+| OPERATING SYSTEMS | MOBILE         | DESKTOP    | WEB        | REST API   | TESTING |
+| ----------------- | -------------- | ---------- | ---------- | ---------- | ------- |
+| Android           | Android Studio | .NET       | ASP.NET    | Angular    | PHPUnit |
+| Linux             | Appery         | Bash/Shell | CSS3       | RxJS       | Karma   |
+| Windows           | Ionic.io       | C/C++      | HTML 5     | Laravel    |         |
+| Windows Server    | Unity          | Java       | Javascript | Typescript |         |
+
+| CONTAINERIZATION AND DEPLOYMENT  | VERSION CONTROL | DATABASE   | JAVASCRIPT    |
+| -------------------------------- | --------------- | ---------- | ------------- |
+| Docker                           | Git             | MySQL      | AJAX          |
+| Google Cloud Workflow Deployment |                 | SQL Server | Angular.js    |
+|                                  |                 | SQLite     | Bootstrap     |
+|                                  |                 |            | Handlebars.js |
+|                                  |                 |            | Node.js       |
+|                                  |                 |            | jQuery.js     |
